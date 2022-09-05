@@ -1,0 +1,24 @@
+<svg width="995" height="817" viewBox="0 0 995 817" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Gaylherme">
+<path id="Vector 2" d="M695.499 0.5H301.999C301.999 0.5 8.49906 39 1.49906 306C-5.50094 573 251.999 642 251.999 642H325.999L378.674 556.057L399.721 519.533C368.033 533.599 104.938 474.722 134.999 306C166 132 301.999 132 301.999 132H623.999L695.499 0.5Z" fill="url(#paint0_linear_403_7)" stroke="url(#paint1_linear_403_7)"/>
+<path id="Vector 3" d="M226 816H376L621.5 389.5H831.5C831.5 389.5 860.5 413 862.5 453.5C864.5 494 810 520.5 810 520.5H583.5L755 816H905L810 644.5C810 644.5 1008 644.5 993.5 453.5C979 262.5 831.5 260.5 831.5 260.5H390.5L314 389.5H478.5L226 816Z" fill="url(#paint2_linear_403_7)" stroke="url(#paint3_linear_403_7)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_403_7" x1="348.429" y1="0.5" x2="348.429" y2="642" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_403_7" x1="348.429" y1="0.5" x2="348.429" y2="642" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint2_linear_403_7" x1="610.13" y1="260.5" x2="610.13" y2="816" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00B2FF"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint3_linear_403_7" x1="610.13" y1="260.5" x2="610.13" y2="816" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00B2FF"/>
+<stop offset="1"/>
+</linearGradient>
+</defs>
+</svg>
